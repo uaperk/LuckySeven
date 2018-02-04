@@ -1,0 +1,2 @@
+# LuckySeven
+Very Simple LuckySeven
